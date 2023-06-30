@@ -1,8 +1,5 @@
 import { useState } from "react";
 
-const Picker = () => {};
-
-// Write your Color component here
 const Color = ({ color, setSelectedColor, selectedColor }) => {
   return (
     <div
